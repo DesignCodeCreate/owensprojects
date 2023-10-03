@@ -29,7 +29,7 @@
 		<p class="text-gray-600 dark:text-slate-400">You can see the bot's commands and functions with
   <a class="listelement" href="https://owenthebot.owensprojects.com"><b>this link</b></a>.</p>
 		<br>
-		<p class="listelement text-gray-600 dark:text-slate-400">You can invite the bot to your Discord server <a class="listelement" href="https://discord.com/api/oauth2/authorize?client_id=973939317900734555&permissions=139586948160&scope=applications.commands%20bot"><b>here</b></a>.</p>
+		<p class="text-gray-600 dark:text-slate-400">You can invite the bot to your Discord server <a class="listelement" href="https://discord.com/api/oauth2/authorize?client_id=973939317900734555&permissions=139586948160&scope=applications.commands%20bot"><b>here</b></a>.</p>
     </div>
 </div>
 
