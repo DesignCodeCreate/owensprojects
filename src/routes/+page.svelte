@@ -14,44 +14,43 @@
 		<p class="text-gray-600 dark:text-slate-400">Some of my other hobbies include: </p>
 			<ul class="dark:text-slate-400 text-gray-600" style="list-style-type:circle">
 				<li>Gaming</li>
-				<li>Reading</li>
+				<li>Electronics</li>
 				<li>CAD (Computer Aided Design)</li>
+				<li>3D modelling in <a class="listelement" href="https://blender.org" target="_blank"><b>blender</b></li>
 			</ul>
 		<br>
-		<p class="text-gray-600 dark:text-slate-400">Online, I am known as DesigningCodingCreating or DesignCodeCreate.</p>
+		<p class="text-gray-600 dark:text-slate-400">Online, I am known as DesignCodeCreate.</p>
     </div>
 </div>
 
 <div class="container mx-auto mt-8">
     <div class="text-gray-600 dark:bg-slate-800 bg-white shadow-md rounded-lg p-4 mb-4">
-      <h5 class="text-gray-600 text-xl font-semibold mb-2 dark:text-white">OwenTheBot</h5>
-      <p class="text-gray-600 dark:text-slate-400">I've made a Discord bot that does some cool stuff.</p>
-		<p class="text-gray-600 dark:text-slate-400">You can see the bot's commands and functions with
-  <a class="listelement" href="https://owenthebot.owensprojects.com" target="_blank"><b>this link</b></a>.</p>
+      <h5 class="text-gray-600 text-xl font-semibold mb-2 dark:text-white">Aquachat</h5>
+      <p class="text-gray-600 dark:text-slate-400">A basic matrix client with very few features, and this project is on hold.</p>
+		<p class="text-gray-600 dark:text-slate-400">You can check it out for yourself with
+			<a class="listelement" href="https://aquachat.owensprojects.com" target="_blank"><b>this link</b></a>.</p>
 		<br>
-		<p class="text-gray-600 dark:text-slate-400">You can invite the bot to your Discord server <a class="listelement" href="https://discord.com/api/oauth2/authorize?client_id=973939317900734555&permissions=139586948160&scope=applications.commands%20bot" target="_blank"><b>here</b></a>.</p>
-    </div>
-</div>
-
-<div class="container mx-auto mt-8">
-    <div class="text-gray-600 dark:bg-slate-800 bg-white shadow-md rounded-lg p-4 mb-4">
-      <h5 class="text-gray-600 text-xl font-semibold mb-2 dark:text-white">FishyGames</h5>
-      <p class="text-gray-600 dark:text-slate-400"></p>
-		<p class="text-gray-600 dark:text-slate-400">This is a basic games website made with Svelte and TailwindCSS.</p>
-		<br>
-		<p class="text-gray-600 dark:text-slate-400">You can visit the website <a class="listelement" href="https://fishygames.owensprojects.com" target="_blank"><b>here</b></a>.</p>
-    </div>
-</div>
-
-
-<div class="container mx-auto mt-8">
-    <div class="text-gray-600 dark:bg-slate-800 bg-white shadow-md rounded-lg p-4 mb-4">
-		<h5 class="text-gray-600 text-xl font-semibold mb-2 dark:text-white">Some Links</h5>
+		<h5 class="text-gray-600 text-l font-semibold mb-2 dark:text-white">Features</h5>
 		<ul class="dark:text-slate-400 text-gray-600" style="list-style-type:circle">
-			<li class="listelement"><a href="https://github.com/DesigningCodingCreating" target="_blank"><b>GitHub</b> - DesigningCodingCreating</a></li>
-			<li class="listelement"><a href="https://discord.com/users/934133252397076540" target="_blank"><b>Discord</b> - DesigningCodingCreating</a></li>
-			<li class="listelement"><a href="https://namemc.com/profile/DesignCodeCreate" target="_blank"><b>Minecraft</b> - DesignCodeCreate</a></li>
-			<li class="listelement"><a href="https://replit.com/@DesigningCodingCreating" target="_blank"><b>Replit</b> - DesigningCodingCreating</a></li>
+			<li>A very basic login system with SSO support</li>
+			<li>Light and dark theme</li>
+			<li>Message viewing and typing events</li>
+			<li>Very basic room management</li>
+			<li>User presence and listing</li>
+		</ul>
+		<br>
+		<p class="text-gray-600 dark:text-slate-400">I plan to rewrite this in the future using the matrix rust sdk and wasm.</p>
+
+	</div>
+</div>
+
+<div class="container mx-auto mt-8">
+    <div class="text-gray-600 dark:bg-slate-800 bg-white shadow-md rounded-lg p-4 mb-4">
+		<h5 class="text-gray-600 text-xl font-semibold mb-2 dark:text-white">Links</h5>
+		<ul class="dark:text-slate-400 text-gray-600" style="list-style-type:circle">
+			<li class="listelement"><a href="https://github.com/DesignCodeCreate" target="_blank"><b>GitHub</b></li>
+			<li class="listelement"><a href="https://discord.com/users/934133252397076540" target="_blank"><b>Discord</b></li>
+			<li class="listelement"><a href="https://namemc.com/profile/DesignCodeCreate" target="_blank"><b>Minecraft</b></li>
 		</ul>
     </div>
 </div>
